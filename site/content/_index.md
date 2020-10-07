@@ -2,11 +2,11 @@
 title: "Bothell Computer Science and Coding Club"
 subtitle:
 image: /img/home-jumbotron.jpg
-blurb:
+Vision:
     heading: Our Vision
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    text: "A club that strives to build a community of students interested in Computer Science and coding that works on projects together. It encourages students to challenge themselves by attending hackathons, and competitive competitions like the U.S.A Computing Olympiad. No previous coding experience required!"
 intro:
-    heading: "What we offer"
+    heading: "Meet our members"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
 products:
     - image: img/illustrations-coffee.svg
