@@ -2,7 +2,7 @@
 title: "Bothell Computer Science and Coding Club"
 subtitle:
 image: /img/home-jumbotron.jpg
-Vision:
+blurb:
     heading: Our Vision
     text: "A club that strives to build a community of students interested in Computer Science and coding that works on projects together. It encourages students to challenge themselves by attending hackathons, and competitive competitions like the U.S.A Computing Olympiad. No previous coding experience required!"
 intro:
